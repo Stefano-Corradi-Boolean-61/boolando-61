@@ -74,7 +74,7 @@ body{
 
 
 /************ card-text */
-.card-text span{
+.card-text span, del{
   font-size: 14px;
 }
 
